@@ -1,7 +1,7 @@
 {
     "name": "SkILLHUB",
     "start_url": "/vikimorningbatch",
-    "display": "standalon",
+    "display": "standalone",
     "icons": [
         {
             "src": "./pwa/assets/images/SKILLHUB-48-48/png",
